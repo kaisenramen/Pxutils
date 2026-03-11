@@ -1,0 +1,36 @@
+GIMP Palette
+Name: Gimmick C30a "Trinitron"
+Columns: 32
+#
+0 0 0 trinitronBlack
+46 0 0 trinitronRed0
+93 0 0 trinitronRed1
+139 0 0 trinitronRed2
+185 0 0 trinitronRed3
+232 0 0 trinitronRed4
+255 23 23 trinitronRed5
+255 70 70 trinitronRed6
+255 116 116 trinitronRed7
+255 162 162 trinitronRed8
+255 209 209 trinitronRed9
+0 46 0 trinitronGreen0
+0 93 0 trinitronGreen1
+0 139 0 trinitronGreen2
+0 185 0 trinitronGreen3
+0 232 0 trinitronGreen4
+23 255 23 trinitronGreen5
+70 255 70 trinitronGreen6
+116 255 116 trinitronGreen7
+162 255 162 trinitronGreen8
+209 255 209 trinitronGreen9
+0 0 46 trinitronBlue0
+0 0 93 trinitronBlue1
+0 0 139 trinitronBlue2
+0 0 185 trinitronBlue3
+0 0 232 trinitronBlue4
+23 23 255 trinitronBlue5
+70 70 255 trinitronBlue6
+116 116 255 trinitronBlue7
+162 162 255 trinitronBlue8
+209 209 255 trinitronBlue9
+255 255 255 trinitronWhite

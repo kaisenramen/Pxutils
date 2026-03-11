@@ -1,0 +1,44 @@
+{
+  "name": "pxutils",
+  "displayName": "Pxutils",
+  "description": "Collection of Aseprite tools for Pxls, inspired by Clueless (WIP)",
+  "version": "1.0",
+  "author": {
+    "name": "kaisenramen",
+    "email": "kaisenramen@gmail.com",
+    "url": "https://github.com/kaisenramen"
+  },
+  "contributors": [ ],
+  "publisher": "kaisenramen",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "keys": [
+        { "id": "pxutils-keys", "path": "./pxutils.aseprite-keys" }
+    ],
+    "palettes": [
+        { "id": "Gimmick-1", "path": "./resources/palettes/gimmick_1.gpl" },
+        { "id": "Gimmick-2", "path": "./resources/palettes/gimmick_2.gpl" },
+        { "id": "Gimmick-3", "path": "./resources/palettes/gimmick_3.gpl" },
+        { "id": "Gimmick-4", "path": "./resources/palettes/gimmick_4.gpl" },
+        { "id": "Pxls-1", "path": "./resources/palettes/palette_1.gpl" },
+        { "id": "Pxls-2", "path": "./resources/palettes/palette_2.gpl" },
+        { "id": "Pxls-3", "path": "./resources/palettes/palette_3.gpl" },
+        { "id": "Pxls-4", "path": "./resources/palettes/palette_4.gpl" },
+        { "id": "Pxls-5", "path": "./resources/palettes/palette_5.gpl" },
+        { "id": "Pxls-6", "path": "./resources/palettes/palette_6.gpl" },
+        { "id": "Pxls-7", "path": "./resources/palettes/palette_7.gpl" },
+        { "id": "Pxls-8", "path": "./resources/palettes/palette_8.gpl" },
+        { "id": "Pxls-9", "path": "./resources/palettes/palette_9.gpl" },
+        { "id": "Pxls-10", "path": "./resources/palettes/palette_10.gpl" },
+        { "id": "Pxls-11", "path": "./resources/palettes/palette_11.gpl" },
+        { "id": "Pxls-12", "path": "./resources/palettes/palette_12.gpl" },
+        { "id": "Pxls-13", "path": "./resources/palettes/palette_13.gpl" }
+    ],
+    "scripts": [
+        { "path": "./main.lua" }
+    ]
+  }
+}

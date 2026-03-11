@@ -1,0 +1,22 @@
+{
+  "name": "pxutils",
+  "displayName": "Pxutils",
+  "description": "Collection of Aseprite tools for Pxls, inspired by Clueless (WIP)",
+  "version": "1.0",
+  "author": {
+    "name": "kaisenramen",
+    "email": "kaisenramen@gmail.com",
+    "url": "https://github.com/kaisenramen"
+  },
+  "contributors": [ ],
+  "publisher": "kaisenramen",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+        { "path": "./main.lua" }
+    ]
+  }
+}

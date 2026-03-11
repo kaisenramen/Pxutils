@@ -1,0 +1,9 @@
+.vscode/
+
+dist/
+*.zip
+*.aseprite-extension
+package.json
+
+*.txt
+test.lua

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard version="1">
+    <commands>
+        <key command="visual_size" shortcut="Ctrl+Alt+S"/>
+        <key command="downscale_nearest_neighbor" shortcut="Ctrl+Alt+D"/>
+        <key command="downscale_non_integer" shortcut="Ctrl+Alt+Shift+D"/>
+        <key command="pxutils_colors" shortcut="Ctrl+Alt+C"/>
+        <key command="pxutils_reduce" shortcut="Ctrl+Alt+R"/>
+    </commands>
+</keyboard>
