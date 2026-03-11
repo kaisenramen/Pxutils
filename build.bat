@@ -4,6 +4,8 @@ setlocal enabledelayedexpansion
 set TARGET=deps
 if not exist "%TARGET%" mkdir "%TARGET%"
 
+set VERSION="v1.0"
+
 REM Build plugins
 call :build_plugin base
 call :build_plugin extras
@@ -29,7 +31,7 @@ powershell -Command ^
 
 REM Rename
 cd deps
-ren "%NAME%.zip" "pxutils-extension-%NAME%-v1.0.0.aseprite-extension"
+ren "%NAME%.zip" "pxutils-extension-%NAME%-%VERSION%.aseprite-extension"
 cd ..
 
 REM Cleanup
