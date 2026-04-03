@@ -17,7 +17,7 @@ color reduction, and analysis. Designed with **Clueless** users is mind.
 
 1. Download the [latest release](https://github.com/kaisenramen/Pxutils/releases) of your choice
 (either the *base* \[recommended\] or *extras* extension)
-2. Double click the file and open with Aseprite
+2. Open Aseprite and drag-n-drop the extension file into the program window
 3. You should see a new menu option called "**Pxutils**" under **Edit**
 
 (As of v1.0, the only difference between *base* and *extras* is that *extras* registers every single Pxls palette to your presets.)
@@ -32,7 +32,7 @@ color reduction, and analysis. Designed with **Clueless** users is mind.
 - You can assign keybinds via **Edit > Keyboard Shortcuts**
 - Just search "pxutils" and "sprite" and they should come up
 
-You **must** allow file access in the popup so that the plugin access GPL files.
+You **must** allow file access in the popup so that the plugin can access the palette files.
 You can restore default settings with **Edit > Pxutils > Restore Defaults**.
 
 ## Contributing
